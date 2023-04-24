@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_flags - Entry point
+ * flags - Entry point
  * @format: Formatted
  * @i: taking parameter
  * Return: Flags:
