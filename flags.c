@@ -3,7 +3,7 @@
 /**
  * flags - Entry point
  * @format: Formatted
- * @i: taking parameter
+ * @i: takes parameter
  * Return: Flags:
  */
 int get_flags(const char *format, int *i)
