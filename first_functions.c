@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_unsigned - Entry point
+ * print_unsigned - The entry point
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
